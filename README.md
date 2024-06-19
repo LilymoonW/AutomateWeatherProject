@@ -1,6 +1,7 @@
 ## Skills Used
 
 - utilized beautiful soup to scrape weather data from web.
+- Used textbelt to send text messages to phone
 
 
 ## Screenshot
